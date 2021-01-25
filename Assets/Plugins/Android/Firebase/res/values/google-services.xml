@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://crushy-e4145.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">799753824435</string>
+  <string name="google_storage_bucket" translatable="false">crushy-e4145.appspot.com</string>
+  <string name="project_id" translatable="false">crushy-e4145</string>
+  <string name="google_api_key" translatable="false">AIzaSyB1xNuWQgWbDIUJHKIGRNL8T7mr7xgOzTA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB1xNuWQgWbDIUJHKIGRNL8T7mr7xgOzTA</string>
+  <string name="google_app_id" translatable="false">1:799753824435:android:b94a8ded2c63072e</string>
+  <string name="default_web_client_id" translatable="false">799753824435-j42usq45fuqkhoqk6vfev9q9ueosuk84.apps.googleusercontent.com</string>
+</resources>

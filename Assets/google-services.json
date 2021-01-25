@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "799753824435",
+    "firebase_url": "https://crushy-e4145.firebaseio.com",
+    "project_id": "crushy-e4145",
+    "storage_bucket": "crushy-e4145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799753824435:android:b94a8ded2c63072e",
+        "android_client_info": {
+          "package_name": "com.clueict.kingcrush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799753824435-j42usq45fuqkhoqk6vfev9q9ueosuk84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1xNuWQgWbDIUJHKIGRNL8T7mr7xgOzTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
