@@ -9,5 +9,4 @@ Players can compete with their Facebook friends and see how they are progressing
 </p>
 
 ## Google play & Appstore links:
- * [![](./images/googleplay.png)](https://play.google.com/store/apps/details?id=com.clueict.kingcrush)
- * [![](./images/appstore.png)](#)
+ [![](./images/googleplay.png)](https://play.google.com/store/apps/details?id=com.clueict.kingcrush) [![](./images/appstore.png)]()
