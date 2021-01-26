@@ -9,4 +9,4 @@ Players can compete with their Facebook friends and see how they are progressing
 </p>
 
 ## App direct download link
- * https://play.google.com/store/apps/details?id=com.clueict.kingcrush
+ * [![Image](https://www.rdsdelivery.com/wp-content/uploads/2016/11/get-it-on-google-play-icon-logo-e1486678715107.png)]("https://play.google.com/store/apps/details?id=com.clueict.kingcrush")
